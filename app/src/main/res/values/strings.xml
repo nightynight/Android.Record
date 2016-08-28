@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecordDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="start">录音</string>
+    <string name="stop">停止/保存</string>
+    <string name="play">播放</string>
+    <string name ="list_stop">停止</string>
+</resources>
